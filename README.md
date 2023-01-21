@@ -23,4 +23,5 @@ bu yöntem ise harflerin sırasını yan yana yazmaktansa toplamını vermektedi
 
 kodun çalışma mantığı ise c proglamlama dilindeki ASCI kodlarıdır.
 ASCI kodlarında "a" 97. harftir.
-kod kullanıcıdan bir 
+ilk uygulama için kod kullanıcıdan bir kullanıcıdan bir kelime/cümle alır ve ardından cahr dizisinin tüm elemanlarının ASCI kodlarının 96 eksiğini ekrana bastırır
+ikinci uygulamada ise kod bu ASCI kodlarını toplar ve "\0" geldiğinde toplamı ekrana bastırır.
